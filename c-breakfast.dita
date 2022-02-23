@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-breakfast">
+ <title>Breakfast Guide</title>
+ <shortdesc>With these recipes, you'll be able to make a delicious breakfast to satisfy your taste buds and start your day off right!</shortdesc>
+ <conbody>
+  <fig audience="armando"><image href="images/vegan.jpg"></image></fig>
+  <fig audience="mom"><image href="images/breakfast.jpg"></image></fig>
+ </conbody>
+</concept>

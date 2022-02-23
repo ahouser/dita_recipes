@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Ultimate Breakfast Guide</title>
+ 
+ <keydef keys="bacon">
+  <topicmeta>
+   <keywords>
+    <keyword>bacon</keyword>
+   </keywords>
+  </topicmeta>   
+ </keydef>
+ 
+ <keydef keys="butter">
+  <topicmeta>
+   <keywords>
+    <keyword>butter</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <keydef keys="restaurant">
+  <topicmeta>
+   <keywords>
+    <keyword>Lefty's</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <topicref href="c-breakfast.dita"/>
+ 
+ <topichead navtitle="Appetizers">
+  <topicref href="t-avotoast.dita" navtitle="Avocado Toast"/>
+ </topichead>
+ 
+ <topichead navtitle="Entrees">
+  <topicref href="t-omelette.dita" navtitle="Omelette"/>
+  <topicref href="t-potatoes.dita" navtitle="Potatoes"/>
+ </topichead>
+ 
+ <topichead navtitle="Drinks">
+ <topicref href="t-smoothie.dita" navtitle="Smoothie"/>
+ </topichead>
+ 
+ <topichead navtitle="Dessert">
+  <topicref href="t-lemoncake.dita" navtitle="Raspberry Lemon Cake"/>
+ </topichead>
+ 
+ <topichead navtitle="Find Recipes Online">
+  <topicref href="r-sources.dita"></topicref>
+ </topichead>
+
+<topichead navtitle="Eating Out">
+ <topicref href="c-eatingout.dita"></topicref>
+</topichead>
+
+</map>

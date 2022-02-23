@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="topic_tpw_tc4_lz">
+  <title>Related Links</title>
+  <body>
+    <p>To see where the recipes were adapted from or to find more breakfast recipes follow the links below to explore!</p>
+  <ul>
+    <li props="armando"><p>Simple Omelette: <xref href="http://minimalistbaker.com/simple-vegan-omelet/" format="html" scope="external"></xref></p></li>
+    <li props="mom"><p>Simple Omelette: <xref href="http://www.incredibleegg.org/cooking-school/egg-cookery/make-an-omelet" format="html" scope="external"></xref></p></li>
+    <li props="armando"><p>Avocado Toast: <xref href="http://www.blissfulbasil.com/smashed-avocado-sauteed-mushroom-toast/" format="html" scope="external"></xref></p></li>
+    <li props="mom"><p>Avocado Toast: <xref href="http://www.thekitchn.com/11-easy-ways-to-fancy-up-your-avocado-toast-219143" format="html" scope="external"></xref></p></li>
+    <li><p>Best Ever Breakfast Potatoes: <xref href="http://www.foodnetwork.com/recipes/best-breakfast-potatoes-ever" format="html" scope="external"></xref></p></li>
+    <li><p>Peanut Butter Oatmeal Smoothie: <xref href="http://chefsavvy.com/peanut-butter-oatmeal-smoothie/" format="html" scope="external"></xref></p></li>
+    <li props="armando"><p>Raspberry Lemon Cake: <xref href="http://sodeliciousdairyfree.com/thrive/recipes/raspberry-lemon-cake-with-vegan-cream-cheese-frosting/" format="html" scope="external"></xref></p></li>
+    
+  </ul>
+
+  </body>
+</topic>

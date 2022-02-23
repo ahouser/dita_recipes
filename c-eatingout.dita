@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-eatingout">
+ <title>Tired of Cooking</title>
+ <shortdesc>If you're too tired to cook or don't have the right ingredients on hand but still need to start your day off right below is a list of recommended breakfast places nearby.</shortdesc>
+ <conbody>
+  <p><keyword keyref="restaurant"></keyword> is the perfect local place to eat breakfast. It's one of the locals' favorite hotspots so it can get a bit crowded. I suggest going before 11am or as early as possible. </p>
+  <fig><image href="images/eatingout.gif"> <alt>Eating out is a great solution when you're too tired to cook</alt></image></fig>
+ </conbody>
+</concept>
+

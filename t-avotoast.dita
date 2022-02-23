@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-avocadotoast">
+    <title>Avocado Toast</title>
+    <shortdesc>Avocado toast is so trendy right now and allows you to come up with new twists and variations on the original.</shortdesc>
+    <taskbody>
+        <prereq> This recipe requires a skillet and a knife. You will also need the following ingredients:
+            <ul>
+                <li audience="mom">2 slices cooked bacon, crumbled</li>
+                <li audience="armando">6 oz baby Portobello mushrooms, washed and sliced</li>
+                <li audience="armando">1 1/2 tbsp olive oil</li> 
+                <li>1 avocado
+                    <note>Peel back the stem of the avocado to check for ripeness. If it comes away easily and is green underneath it is ripe and ready to eat. </note>
+                </li>
+                <li>1 lime, halved</li>
+                <li conref="t-potatoes.dita#t-potatoes/saltpepper"></li>
+                <li>chili flakes to taste (optional)</li>
+                <li audience="mom">crumbled goat cheese to taste (optional)</li>
+                <li>2 slices of bread</li>               
+            </ul>           
+        </prereq>
+        <context>
+            <ul>
+                <li><b>Prep time: 10 minutes</b></li>
+                <li audience="armando"><b>Cook time: 15 minutes </b></li>
+                <li audience="mom"><b>Cook time: 5 minutes</b></li>
+                <li><b>Serves: 1</b></li>
+            </ul>
+            <p><b>Directions:</b></p>
+        </context>
+        <steps>
+            <step audience="armando">
+                <cmd>Add the oil to a large skillet over medium-high heat. Add in the sliced mushrooms and sauté for 8-12 minutes or until golden brown, stirring occasionally but not too often</cmd>
+            </step>
+            <step>
+                <cmd>Slice open the avocado</cmd>
+                <substeps>
+                <substep audience="armando">
+                    <cmd>Grip the avocado gently on one side with one hand. With a sharp knife, cut the avocado lengthwise around the pit and twist to split the avocado in half</cmd>
+                </substep>
+                <substep audience="armando">
+                    <cmd>Gently tap the pit with a knife with enough force so that the knife edge wedges into the pit, but not so hard as to cut all the way through it</cmd>
+                </substep>
+                <substep audience="armando">
+                    <cmd>With the edge of the knife, twist the pit out of the avocado and discard</cmd> 
+                    <info> <note id="caution"> This method is tricky and you must be careful so you don't cut your hand. For safety, fold up a kitchen towel and use that to hold the avocado half with the pit</note></info>
+                </substep>
+                </substeps>
+                </step>
+                <step>
+                    <cmd>Scoop out the flesh of the avocado and add it to a bowl along with the juice of one lime</cmd>
+                </step>
+                <step>
+                    <cmd>Use a fork to mash the avocado and season with salt, pepper and chili flakes (optional)</cmd>
+                </step>
+            <step>
+                <cmd>Toast the slices of bread</cmd> 
+                <info><note audience="armando">Check out this <xref href="http://www.peta.org/living/food/baked-goods/" format="html" scope="external"> list of breads</xref>to be sure that you're buying vegan.</note></info>
+            </step>
+            <step>
+                <cmd>To assemble, slather the slices of toast with mashed avocado and top with <keyword keyref="bacon"></keyword></cmd>
+            </step>
+            <step>
+                <cmd>Serve immediately</cmd>
+                <stepresult>
+                    <fig audience="armando"><image href="images/armandotoast.jpg"></image></fig>
+                    <fig audience="mom"><image href="images/momtoast.jpg"></image></fig>
+                </stepresult>
+            </step>
+        </steps>
+        <postreq></postreq>
+    </taskbody>
+</task>

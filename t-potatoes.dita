@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-potatoes">
+    <title>Best Ever Breakfast Potatoes</title>
+    <shortdesc>These hearty and home style baked breakfast potatoes are so easy and will become a go-to recipe.</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a large mixing bowl, a measuring cup, and a baking sheet. Ingredients are as follows: <ul>
+        <li>5 pounds red potatoes, roughly chopped</li>
+        <li>4 cloves garlic, minced</li>
+        <li>1 onion, chopped</li>
+        <li>1 green bell pepper, seeded and roughly chopped</li>
+        <li>1 red bell pepper, seeded and roughly chopped</li>
+        <li> 1/4 cup olive oil</li>
+        <li audience="mom">1/2 stick butter melted</li>
+        <li audience="armando">1/2 stick Earth Balance Vegan Buttery Stick </li>
+        <li>1 tsp seasoned salt</li>
+        <li>1/2 tsp cayenne pepper</li>
+        <li id="saltpepper">Kosher salt and freshly ground black pepper to taste</li>
+        <li audience="mom">5 slices of cooked bacon, crumbled (optional)</li>
+       </ul>
+    </prereq>
+    <context>
+            <ul>
+                <li><b>Prep time: 10 minutes</b></li>
+                <li><b>Cook time: 50 minutes</b></li>
+                <li><b>Serves: 6-8</b></li>
+            </ul>  
+            <p><b>Directions:</b></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat oven to 425 degrees F</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>In a large bowl, toss together the potatoes, garlic, onion, green bell pepper, red bell pepper, olive oil, <keyword keyref="butter"/>, seasoned salt, cayenne pepper and some kosher salt and pepper.</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 20-25 minutes, shaking the pan twice</cmd>
+            </step>
+            <step>
+                <cmd>Raise the heat to 500 degrees and bake until crisp and brown, 10 to 15 minutes</cmd> 
+            </step>
+            <step audience="mom">
+                <cmd>Sprinkle with a little more salt and pepper and crumbled bacon bits (optional) before serving.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Sprinkle with a little more salt and pepper before serving.</cmd>
+            </step>
+        </steps>
+        <result>You will have a filling breakfast side dish that can be enjoyed by a big Sunday brunch crowd or saved for more breakfasts in the future.<fig id="potatoes"><title>Best Ever Breakfast Potatoes</title></fig><image href="images/potatoes.jpg" id="image_bnt_4dp_jz"/></result>
+        <postreq>Store the leftover potatoes in an airtight container in the fridge. Let other people know they're in there so they don't go to waste!</postreq>
+    </taskbody>
+</task>
