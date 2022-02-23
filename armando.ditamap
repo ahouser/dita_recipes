@@ -3,29 +3,7 @@
 <map audience="armando">
  <title>Ultimate Vegan Breakfast Guide</title>
   
-  <keydef keys="bacon">
-    <topicmeta>
-     <keywords>
-       <keyword>sauteed mushrooms</keyword>
-     </keywords>
-    </topicmeta>   
-  </keydef>
   
-  <keydef keys="butter">
-    <topicmeta>
-      <keywords>
-        <keyword>Earth Balance Vegan Buttery Stick</keyword>
-      </keywords>
-    </topicmeta>
-  </keydef>
-  
-  <keydef keys="restaurant">
-    <topicmeta>
-      <keywords>
-        <keyword>Gillie's</keyword>
-      </keywords>
-    </topicmeta>
-  </keydef>
   
   <topicref href="c-breakfast.dita"/>
   

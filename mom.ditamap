@@ -3,29 +3,7 @@
 <map>
  <title>Ultimate Breakfast Guide</title>
  
- <keydef keys="bacon">
-  <topicmeta>
-   <keywords>
-    <keyword>bacon</keyword>
-   </keywords>
-  </topicmeta>   
- </keydef>
- 
- <keydef keys="butter">
-  <topicmeta>
-   <keywords>
-    <keyword>butter</keyword>
-   </keywords>
-  </topicmeta>
- </keydef>
- 
- <keydef keys="restaurant">
-  <topicmeta>
-   <keywords>
-    <keyword>Lefty's</keyword>
-   </keywords>
-  </topicmeta>
- </keydef>
+
  
  <topicref href="c-breakfast.dita"/>
  
